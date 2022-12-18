@@ -1,0 +1,1 @@
+El desafío de este proyecto se centra en desarrollar el codigo HTML de una pequeña página de lo que podria ser un negocio, utilizando solo HTML y CSS. Corresponde a un desafío del Programa One Next Education de Oracle y dictado por Alura Latam https://www.aluracursos.com/, programa en el cual fuí becado.
